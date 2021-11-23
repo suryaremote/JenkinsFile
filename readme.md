@@ -28,4 +28,11 @@ Helloworld.html
   
   git push origin master
   
+    
+    we use maven as build tool 
+    
+    we create a package 
+    
+    sudo yum install maven
+    
 
